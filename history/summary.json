@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/caring-abounding-cement.glitch.me.ico",
     "slug": "glitch",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 243,
-    "timeDay": 407,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "uptime": "86.05%",
+    "uptimeDay": "20.41%",
+    "uptimeWeek": "86.05%",
+    "uptimeMonth": "86.05%",
+    "uptimeYear": "86.05%",
+    "time": 248,
+    "timeDay": 438,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-04-09": 24
+      "2023-04-10": 68,
+      "2023-04-09": 1078
     }
   }
 ]
