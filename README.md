@@ -25,3 +25,4 @@ This repository contains the open-source uptime monitor and status page for [484
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [48493160](https://demo.upptime.js.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+  
