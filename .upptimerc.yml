@@ -6,7 +6,7 @@ sites:
   - name: glitch
     url: https://tangy-phantom-jewel.glitch.me
   - name: sandbox
-    url: https://ebl1kd-3000.csb.app/
+    url: https://ebl1kd-3000.csb.app
 
 
 status-website:
