@@ -26,18 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ebl1kd-3000.csb.app.ico",
     "slug": "sandbox",
     "status": "up",
-    "uptime": "90.79%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "90.79%",
+    "uptime": "90.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "90.91%",
+    "uptimeYear": "90.91%",
     "time": 860,
     "timeDay": 1259,
     "timeWeek": 794,
     "timeMonth": 860,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2023-05-10": 6,
       "2023-05-04": 513,
       "2023-05-03": 452
     }
