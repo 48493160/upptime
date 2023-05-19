@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: glitch
     url: https://bramble-attractive-wolverine.glitch.me
+    check: "tcp-ping"
+    port: 443
   - name: sandbox
     url: https://ebl1kd-3000.csb.app
 
