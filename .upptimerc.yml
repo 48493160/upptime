@@ -6,7 +6,7 @@ sites:
   - name: glitch
     url: https://bramble-attractive-wolverine.glitch.me
     check: "tcp-ping"
-    port: 443
+    port: 80
   - name: sandbox
     url: https://ebl1kd-3000.csb.app
 
