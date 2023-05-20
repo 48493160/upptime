@@ -109,6 +109,6 @@ workflowSchedule:
   summary: "41 1 * * *"
   updateTemplate: "37 2 * * *"
   updates: "31 4 * * *"
-  uptime: "*/9 * * * *"
+  uptime: "*/5 * * * *"
 
 
